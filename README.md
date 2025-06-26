@@ -1,4 +1,4 @@
-*Este ejercicio está diseñado para que consolides y apliques todos los conceptos clave que hemos visto hasta ahora en un proyecto real. Al finalizar, habrás demostrado tu habilidad para:*
+*Este ejercicio está diseñado para demostrar lo aprendido en DevSenior y tener una base para consultar*
 
 - Persistencia de Datos Robusta: Interactuar con una base de datos PostgreSQL utilizando Spring Data JPA, incluyendo el manejo de entidades y relaciones básicas.
 - Diseño API Profesional: Crear DTOs eficientes para la transferencia de datos, aplicando validaciones de forma declarativa con Spring Boot Validation y personalizando el formato JSON con las potentes anotaciones de Jackson.
